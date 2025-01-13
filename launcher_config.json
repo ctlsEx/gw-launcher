@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "13.40",
-	"launcherVersion": "1.1",
+	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "globalwar",
-	"newClientUrl" : "https://github.com/anonsousa/gw-launcher/releases/download/gw/gwclient1.zip",
+	"newClientUrl" : "https://github.com/anonsousa/gw-launcher/releases/download/gw/gwclient.zip",
 	"clientExecutable": "client.exe"
 }
