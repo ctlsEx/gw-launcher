@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Globalwar",
+	"clientFolder": "globalwar",
 	"newClientUrl" : "https://github.com/anonsousa/gw-launcher/releases/download/gw/gwclient.zip",
 	"clientExecutable": "client.exe"
 }
